@@ -151,22 +151,22 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Publication Title',
+      title: 'OSINT TOOLS NEES',
       conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      journalName: 'Start.me OSINT Tools',
+      authors: 'Md Tariqul Islam',
+      link: 'https://start.me/p/0NXpbg/osint-expert-researcher',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'An article outlining essential OSINT tools for researchers and investigators. Published on start.me, the guide includes a curated list of tools for data gathering, analysis, and reporting.',
     },
     {
-      title: 'Publication Title',
+      title: 'How to Conduct Social Media Investigations with OSINT',
       conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      journalName: 'Fiverr Blog',
+      authors: 'Md Tariqul Islam',
+      link: 'https://www.fiverr.com/s/990bEwE',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'An article providing a step-by-step guide on how to conduct effective social media investigations using OSINT tools and techniques.',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
@@ -248,10 +248,10 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://www.facebook.com/Tariqul404"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >Profile</a> and ❤️`,
 
   enablePWA: true,
 };
