@@ -41,18 +41,18 @@ const CONFIG = {
           link: 'https://www.osintteam.com/comprehensive-guide-to-finding-and-accessing-webcams-using-google-and-shodan-dorks/',
         },
         {
-          title: 'Project Name',
+          title: 'Top 5 Deep Web Black Markets',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Deep web marketplaces are online marketplaces where people can buy and sell illicit goods and services under the protection of the anonymity of the dark web. The goods and services on offer range from leaked credit card details, exploit kits, and hackers for hire to advertisements for hitmen services.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://miro.medium.com/v2/resize:fit:720/format:webp/0*NqmHP7yJZE6YBzwd.png',
+          link: 'https://medium.com/the-first-digit/top-5-deep-web-black-markets-c792e2e1e5fc',
         },
       ],
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Md Tariqul IsIam',
     description: '',
     imageURL: '',
   },
@@ -116,25 +116,20 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'CEH - Certified Ethical Hacker',
+      body: 'EC-Council',
+      year: '2018',
+      link: 'https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
+      institution: 'Bagular chak A.K.P.K.M.M High School',
+      degree: 'SSC',
       from: '2012',
-      to: '2014',
+      to: '2018',
     },
+
   ],
   publications: [
     {
