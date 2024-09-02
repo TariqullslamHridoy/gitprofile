@@ -107,11 +107,11 @@ const CONFIG = {
       companyLink: 'https://www.fiverr.com/hridoy_404',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'CipherShadowIT',
+      position: 'CEO & Cyber Security Specialist',
+      from: '2023',
+      to: 'August,9 2024',
+      companyLink: 'http://ciphershadow.com',
     },
   ],
   certifications: [
