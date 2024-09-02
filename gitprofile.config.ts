@@ -121,6 +121,24 @@ const CONFIG = {
       year: '2018',
       link: 'https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/',
     },
+        {
+      name: 'Digital Forensic',
+      body: 'EC-Council',
+      year: '2023',
+      link: 'https://www.eccouncil.org',
+    },
+        {
+      name: 'Registered OSINT Analyst',
+      body: 'International Anti Crime Academy (IACA)',
+      year: '2024',
+      link: 'https://www.iaca.nl',
+    },
+        {
+      name: 'Private Detective',
+      body: 'International Anti Crime Academy',
+      year: '2022',
+      link: 'https://www.iaca.nl',
+    },
   ],
   educations: [
     {
