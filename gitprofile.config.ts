@@ -144,8 +144,8 @@ const CONFIG = {
     {
       institution: 'Bagular chak A.K.P.K.M.M High School',
       degree: 'SSC',
-      from: '2012',
-      to: '2018',
+      from: '',
+      to: '',
     },
 
   ],
