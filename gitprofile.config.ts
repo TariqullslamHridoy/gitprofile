@@ -53,7 +53,8 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Md Tariqul IsIam',
-    description: '',
+    description: 'Hey! I'm Md.Tariqul Islam (Hridoy). certified expert, in OSINT (Open Source Intelligence) with a 6+ years of experience in cybersecurity under my belt well.I excel in unearthing information reinforcing landscapes and providing thorough investigative services.I've been fortunate to work alongside teams such, where I've sharpened my expertise in analyzing cyber threats,digital forensics and conducting data inquiries. I use my expertise to offer clients the information and security they require by performing investigations or examining risks along, with furnishing
+ cyber security',
     imageURL: '',
   },
   social: {
@@ -147,7 +148,12 @@ const CONFIG = {
       from: '',
       to: '',
     },
-
+  {
+      institution: 'Arena Web Security',
+      degree: 'CEH - Certified Ethical Hacker',
+      from: '2021',
+      to: '2022',
+    },
   ],
   publications: [
     {
