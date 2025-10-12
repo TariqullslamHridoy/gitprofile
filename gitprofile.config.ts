@@ -58,7 +58,7 @@ const CONFIG = {
   // other sections
 }; // <- only ONE closing brace, no extra comma
 
-  social: {
+  social: 
     linkedin: 'Md Tariqul IsIam',
     twitter: 'Tariqul_404',
     mastodon: '',
