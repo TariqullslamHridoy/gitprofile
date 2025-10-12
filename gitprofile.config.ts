@@ -53,7 +53,7 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Md Tariqul IsIam',
-    description: 'Hey! I'm Md.Tariqul Islam (Hridoy). certified expert, in OSINT (Open Source Intelligence) with a 6+ years of experience in cybersecurity under my belt well.I excel in unearthing information reinforcing landscapes and providing thorough investigative services.
+    description: ' Hey! I'm Md.Tariqul Islam (Hridoy). certified expert, in OSINT (Open Source Intelligence) with a 6+ years of experience in cybersecurity under my belt well.I excel in unearthing information reinforcing landscapes and providing thorough investigative services.'
     imageURL: '',
   },
   social: {
