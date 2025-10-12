@@ -50,7 +50,13 @@ const CONFIG = {
         },
       ],
     },
-
+ },
+  seo: {
+    title: 'Md Tariqul Islam | OSINT Expert & Investigator',
+    description: 'Official profile of Md Tariqul Islam — OSINT Expert, Private Investigator, and Cybersecurity Specialist.',
+  },
+  // other sections
+}; // <- only ONE closing brace, no extra comma
 
   social: {
     linkedin: 'Md Tariqul IsIam',
