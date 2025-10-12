@@ -60,7 +60,7 @@ const CONFIG = {
 
   social: 
     linkedin: 'Md Tariqul IsIam',
-    twitter: 'Tariqul_404',
+    twitter:
     mastodon: '',
     researchGate: '',
     facebook: '',
