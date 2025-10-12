@@ -53,7 +53,7 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Md Tariqul IsIam',
-    description: '
+    description:
     imageURL: '',
   },
   social: {
@@ -139,6 +139,13 @@ const CONFIG = {
       year: '2022',
       link: 'https://www.iaca.nl',
     },
+            {
+      name: 'CEH - Certified Ethical Hacker',
+      body: 'Arena Web Security',
+      year: '2021-2022',
+      link: 'https://arenawebsecurity.net',
+    },
+    
   ],
   educations: [
     {
@@ -153,6 +160,13 @@ const CONFIG = {
       from: '2021',
       to: '28-12-2022',
     },
+     {
+      institution: 'Azure Arc',
+      degree: 'SQL Server Management',
+      from: '2024',
+      to: 'Jun 11, 2024',
+    },
+  
   ],
   publications: [
     {
