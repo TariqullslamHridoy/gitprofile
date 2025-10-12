@@ -55,6 +55,8 @@ const CONFIG = {
     title: 'Portfolio of Md Tariqul IsIam',
     description:
   },
+};
+
   social: {
     linkedin: 'Md Tariqul IsIam',
     twitter: 'Tariqul_404',
