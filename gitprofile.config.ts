@@ -54,7 +54,7 @@ const CONFIG = {
   seo: {
     title: 'Portfolio of Md Tariqul IsIam',
     description:
-    imageURL: '',
+    imageURL: ''
   },
   social: {
     linkedin: 'Md Tariqul IsIam',
